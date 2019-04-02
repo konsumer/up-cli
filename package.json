@@ -1,7 +1,7 @@
 {
   "name": "up-cli",
   "version": "0.0.1",
-  "description": "This is a thin wrapper around installer for [up](https://github.com/apex/up), so you can add it to your dev dependencies in node projects.",
+  "description": "thin wrapper around installer for up, so you can add it to your dev dependencies in node projects",
   "scripts": {
     "postinstall": "node install.js"
   },
